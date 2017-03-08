@@ -11,7 +11,8 @@ Starting a simple scrapy sample project
 Create a file for your spider into 
 > scrapysample/scrapysample/spiders
 
-Look the simplescrappy.py file of this project to see an spider sample
+Look the [simplescrappy.py](https://github.com/dirceusemighini/scrapysample/blob/master/scrapysample/spiders/simplescrapy.py) file of this project to see an spider sample
+
 
 
 
