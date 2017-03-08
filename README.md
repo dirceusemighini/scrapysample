@@ -1,0 +1,2 @@
+# scrapysample
+Simple scrapy sample
